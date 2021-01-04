@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+## Simple React website with Tailwind CSS
+
+## result: https://musing-leakey-b87a16.netlify.app
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
