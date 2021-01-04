@@ -1,6 +1,6 @@
 ## Simple React website with Tailwind CSS
 
-## result: https://musing-leakey-b87a16.netlify.app
+ Result: https://musing-leakey-b87a16.netlify.app
 
 ## Getting Started with Create React App
 
